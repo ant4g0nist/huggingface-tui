@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "python-poetry"
+version = "0.1.0"
+description = ""
+authors = ["Bob van der Linden <bobvanderlinden@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.24.1"
+huggingface_hub = "^v0.19.4"
+textual = "0.42.0"
+textual-dev = "1.2.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
