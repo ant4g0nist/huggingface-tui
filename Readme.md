@@ -1,6 +1,8 @@
 # HuggingTui
 HuggingTui is a VIM-inspired Huggingface Browser.
 
+<img src="imgs/example.png" alt="example" width="800"/>
+
 ## Setup
 
 ### Using poetry
